@@ -1,0 +1,36 @@
+div{
+    
+    color: red;
+}
+body{
+    background-color: blue;
+}
+
+.A{
+    width: 40%;
+    float: left;
+    border: solid red (119, 203, 35) 2px;
+    padding: 20px;
+    text-align: center;
+}
+
+.HA{
+width: 40%;
+float: left;
+border:solid blue ;
+margin-left: 20px;
+padding: 20px;
+text-align: center;
+}
+h1{
+    color: aqua;
+}
+
+.MCLB{
+width: 40%;
+float: left;
+border: red;
+margin-bottom: 20px;
+padding: 20px;
+text-align: center;
+}
